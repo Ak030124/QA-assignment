@@ -1,0 +1,15 @@
+ChromeDriver=F:\Downloads\ChromedriverV86\chromedriver.exe
+
+URL= https://v2.smartserv.io/dashboard.html
+
+URL1= https://en.wikipedia.org/wiki/Selenium
+
+Uid=//input[@placeholder='Username']
+
+Pass=//input[@placeholder='Password']
+
+Login=//button[text()='Login']
+
+ID=rajarshi@smartserv.io
+
+Password=Test@123

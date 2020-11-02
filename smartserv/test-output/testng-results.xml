@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="136589" started-at="2020-11-02T11:39:43 IST" finished-at="2020-11-02T11:42:00 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="136589" started-at="2020-11-02T11:39:43 IST" finished-at="2020-11-02T11:42:00 IST">
+      <class name="Q3_AddTicket.copy.AddTicket">
+        <test-method status="PASS" signature="Q3_AddTicket()[pri:0, instance:Q3_AddTicket.copy.AddTicket@2833cc44]" name="Q3_AddTicket" duration-ms="66523" started-at="2020-11-02T11:40:53 IST" finished-at="2020-11-02T11:42:00 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Q3_AddTicket -->
+      </class> <!-- Q3_AddTicket.copy.AddTicket -->
+      <class name="Q1_Selenium_Element.Assignment_1">
+        <test-method status="PASS" signature="Q1_seleniumWiki()[pri:0, instance:Q1_Selenium_Element.Assignment_1@4d41cee]" name="Q1_seleniumWiki" duration-ms="44071" started-at="2020-11-02T11:39:43 IST" finished-at="2020-11-02T11:40:27 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Q1_seleniumWiki -->
+        <test-method status="PASS" signature="Q1_verifyPluto()[pri:0, instance:Q1_Selenium_Element.Assignment_1@4d41cee]" name="Q1_verifyPluto" duration-ms="3715" started-at="2020-11-02T11:40:27 IST" finished-at="2020-11-02T11:40:31 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Q1_verifyPluto -->
+      </class> <!-- Q1_Selenium_Element.Assignment_1 -->
+      <class name="Q2_Smartserv_Login.Smartserv_Login">
+        <test-method status="PASS" signature="Q2_SmartservLogin()[pri:0, instance:Q2_Smartserv_Login.Smartserv_Login@3712b94]" name="Q2_SmartservLogin" duration-ms="22230" started-at="2020-11-02T11:40:31 IST" finished-at="2020-11-02T11:40:53 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Q2_SmartservLogin -->
+      </class> <!-- Q2_Smartserv_Login.Smartserv_Login -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
